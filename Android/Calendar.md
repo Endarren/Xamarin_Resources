@@ -6,3 +6,5 @@
 * [Create a repeating event with reminders until specific day without Intent](https://stackoverflow.com/questions/13652168/create-a-repeating-event-with-reminder-until-specific-day-without-intent-in-andr)
 
 * [Events in Android Calendar that was added through code does not open](https://stackoverflow.com/questions/17789861/events-in-android-calendar-that-was-added-through-code-does-not-open)
+
+* [Calendar in Xamarin Android](http://www.nullskull.com/a/10478364/calendar-in-android-xamarin.aspx)
