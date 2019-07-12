@@ -10,3 +10,5 @@
 * [Calendar in Xamarin Android](http://www.nullskull.com/a/10478364/calendar-in-android-xamarin.aspx)
 
 * [Xamarin - Check if an event exists before adding it to the calendar in Android](https://stackoverflow.com/questions/39138894/xamarin-check-if-an-event-exists-before-adding-it-to-the-calendar-in-android)
+
+* [Android Calendar Provider - An Untold Story About Recurring Events and Event Exceptions](https://android.jlelse.eu/android-calendar-provider-an-untold-story-about-recurring-events-and-event-exceptions-f5d37dcb1698)
