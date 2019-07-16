@@ -17,6 +17,7 @@
 ## View
 * [CardView](https://github.com/AndreiMisiukevich/CardView)
 * [Carousel View](https://github.com/alexrainman/CarouselView)
+* [Collection View](https://github.com/muak/AiForms.CollectionView)
 * [Expandable View](https://github.com/AndreiMisiukevich/ExpandableView)
 * [GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView) - A grid view with more options.
 * [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
