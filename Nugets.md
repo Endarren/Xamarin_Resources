@@ -19,6 +19,7 @@
 * [Carousel View](https://github.com/alexrainman/CarouselView)
 * [Expandable View](https://github.com/AndreiMisiukevich/ExpandableView)
 * [GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView) - A grid view with more options.
+* [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
 * [Tab View](https://github.com/chaosifier/TabView)
 
 
