@@ -14,7 +14,9 @@
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
 ## View
 * [CardView](https://github.com/AndreiMisiukevich/CardView)
-* [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView)
+* [Carousel View](https://github.com/alexrainman/CarouselView)
+* [Expandable View](https://github.com/AndreiMisiukevich/ExpandableView)
+
 
 ## Image
 * [Tizen Circular UI](https://github.com/Samsung/Tizen.CircularUI)
