@@ -10,3 +10,8 @@
 * [AiForms - Effects](https://github.com/muak/AiForms.Effects)
 
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
+
+# IOC (Inversion of Control)
+
+* [DryIoc](https://github.com/dadhi/DryIoc)
+
