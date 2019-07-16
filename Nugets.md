@@ -19,6 +19,7 @@
 * [Carousel View](https://github.com/alexrainman/CarouselView)
 * [Collection View](https://github.com/muak/AiForms.CollectionView)
 * [Expandable View](https://github.com/AndreiMisiukevich/ExpandableView)
+* [XF Expandable List View](https://github.com/ChasakisD/XFExpandableListView)
 * [GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView) - A grid view with more options.
 * [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
 * [Settings View](https://github.com/muak/AiForms.SettingsView) - A view for a settings page
