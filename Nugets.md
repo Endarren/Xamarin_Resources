@@ -20,6 +20,7 @@
 * [Expandable View](https://github.com/AndreiMisiukevich/ExpandableView)
 * [GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView) - A grid view with more options.
 * [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
+* [Settings View](https://github.com/muak/AiForms.SettingsView) - A view for a settings page
 * [Tab View](https://github.com/chaosifier/TabView)
 
 
