@@ -12,6 +12,8 @@
 * [AiForms - Effects](https://github.com/muak/AiForms.Effects)
 
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
+
+* [Easy Loading](https://github.com/sthewissen/Xamarin.Forms.EasyLoading) 
 ## View
 * [CardView](https://github.com/AndreiMisiukevich/CardView)
 * [Carousel View](https://github.com/alexrainman/CarouselView)
