@@ -8,7 +8,7 @@
 # UI (User Interface)
 
 * [Timeline](https://github.com/egbakou/Timeline)
-
+* [Touch Effect](https://github.com/AndreiMisiukevich/TouchEffect) - Adds touch effect to UI elements.
 * [AiForms - Effects](https://github.com/muak/AiForms.Effects)
 
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
