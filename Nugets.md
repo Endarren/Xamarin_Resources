@@ -26,7 +26,8 @@
 * [Tab View](https://github.com/chaosifier/TabView)
 * [XF Expandable List View](https://github.com/ChasakisD/XFExpandableListView)
 
-
+## Dialog
+* [AiForms - Dialogs](https://github.com/muak/AiForms.Dialogs)
 ## Image
 * [Tizen Circular UI](https://github.com/Samsung/Tizen.CircularUI)
 
