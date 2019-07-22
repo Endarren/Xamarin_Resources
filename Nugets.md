@@ -6,7 +6,7 @@
 * IOC (Inversion of Control)
 
 # UI (User Interface)
-
+* [Before and After](https://github.com/mariusmuntean/BeforeAndAfter)
 * [Timeline](https://github.com/egbakou/Timeline)
 * [Touch Effect](https://github.com/AndreiMisiukevich/TouchEffect) - Adds touch effect to UI elements.
 * [AiForms - Effects](https://github.com/muak/AiForms.Effects)
