@@ -10,6 +10,7 @@
 * [Timeline](https://github.com/egbakou/Timeline)
 * [Touch Effect](https://github.com/AndreiMisiukevich/TouchEffect) - Adds touch effect to UI elements.
 * [AiForms - Effects](https://github.com/muak/AiForms.Effects)
+* [InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
 
