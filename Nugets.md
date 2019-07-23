@@ -5,6 +5,8 @@
 * UI (User Interface)
 * IOC (Inversion of Control)
 
+* [Device Orientation](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation)
+
 # UI (User Interface)
 * [Before and After](https://github.com/mariusmuntean/BeforeAndAfter)
 * [Timeline](https://github.com/egbakou/Timeline)
