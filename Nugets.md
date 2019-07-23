@@ -14,6 +14,7 @@
 * [Reactive UI](https://github.com/reactiveui/ReactiveUI) - Check out their web site for more information:  https://www.reactiveui.net
 
 * [Easy Loading](https://github.com/sthewissen/Xamarin.Forms.EasyLoading) 
+* [SpotsDialog](https://github.com/FANMixco/SpotsDialog.Xamarin)
 ## Input
 * [InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 ### Entry
