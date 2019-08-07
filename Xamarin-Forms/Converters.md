@@ -1,5 +1,7 @@
 * [Relative time formatting](http://www.xamboy.com/2018/02/15/relative-time-formatting-in-xamarin-forms/)
-* [DateTime to String](https://github.com/Endarren/Xamarin.Forms_DateTimeConverter) - Includes option to add a format parameter to the DateTime.
+* [DateTime to String](https://github.com/Endarren/Xamarin.Forms_DateTimeConverter) - Includes option to add a format parameter to the 
+DateTime.
+* [Null Value Bool Converter](https://stackoverflow.com/questions/44823518/how-to-check-object-null-value-in-xamarin-forms-data-trigger) 
 # Collections
 * [Converters Pack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack)
 * [Wibci Converters](https://github.com/InquisitorJax/Wibci.Xamarin.Forms.Converters) - Contains BooleanToInvertedBoolean, ByteArrayToImageSource, HexStringToColor, NullValueToBoolean, EmptyStringToFillText, TrimString
