@@ -4,6 +4,12 @@
 |[EnhancedEntry](https://github.com/LeoJHarris/EnhancedEntry)|[LeoJHarris](https://github.com/LeoJHarris)|Improved version of Entry.
 |[Xamarin.Forms.MaskedEntry](https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry)|[TBertuzzi](https://github.com/TBertuzzi)|A masked entry
 
+# Tutorials
+
+## Customization
+|Name|Source|Description|
+|---|----|----|
+|[How to create a custom entrycell in Xamarin Forms](https://hangzone.com/how-to-make-a-custom-entrycell-in-xamarin-forms/)|[Hangzone](https://hangzone.com)
 
 # Bugs
 
