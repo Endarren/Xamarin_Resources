@@ -5,7 +5,9 @@
 |[Relative time formatting](http://www.xamboy.com/2018/02/15/relative-time-formatting-in-xamarin-forms/)|[xamboy](http://www.xamboy.com/)
 |[DateTime to String](https://github.com/Endarren/Xamarin.Forms_DateTimeConverter)|[Endarren](https://github.com/Endarren)|DateTime|Converts a DateTime to a string.  Has option for converter parameter for the format.
 |[Null Value Bool Converter](https://stackoverflow.com/questions/44823518/how-to-check-object-null-value-in-xamarin-forms-data-trigger)|[stackoverflow](https://stackoverflow.com)|null
-
+|[HexToColorConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/HexToColorConverter.cs)|[framinosona](https://github.com/framinosona)|string
+|[BooleanToObjectConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/BooleanToObjectConverter.cs)|[framinosona](https://github.com/framinosona)|bool|Returns an object depending on whether the bool is true of false.  The object is a generic.
+|[MathValueConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/MathValueConverter.cs)|[framinosona](https://github.com/framinosona)|string|Tries to do math with the string.
 
 # Collections
 * [Converters Pack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack)
