@@ -15,3 +15,4 @@
 * [XForms.Converters](https://github.com/XForms/XForms.Converters) - InverseBoolConverter, IsEmptyConverter, IsEmptyCollectionConverter
 * [xamarin.forms-toolkit](https://github.com/jamesmontemagno/xamarin.forms-toolkit/tree/master/FormsToolkit/FormsToolkit/Converters)
 * [Converters](https://github.com/framinosona/Converters)
+* [Plugin.XamarinForms.Converters](https://github.com/saimel/Plugin.XamarinForms.Converters)
