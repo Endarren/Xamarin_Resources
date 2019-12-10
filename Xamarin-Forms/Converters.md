@@ -8,6 +8,13 @@
 |[HexToColorConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/HexToColorConverter.cs)|[framinosona](https://github.com/framinosona)|string
 |[BooleanToObjectConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/BooleanToObjectConverter.cs)|[framinosona](https://github.com/framinosona)|bool|Returns an object depending on whether the bool is true of false.  The object is a generic.
 |[MathValueConverter](https://github.com/framinosona/Converters/blob/master/src/FormsCommunityToolkit.Converters/MathValueConverter.cs)|[framinosona](https://github.com/framinosona)|string|Tries to do math with the string.
+|[CollectionHasElementsConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/CollectionHasElementsConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|IEnumerable|
+|[DoubleToRoundedValueConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/DoubleToRoundedValueConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|double|
+|[EmptyValueToBoolConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/EmptyValueToBoolConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|object|
+|[NumberToCurrencyConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/NumberToCurrencyConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|object|
+|[NumberToCurrencyConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/NumberToCurrencyConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|object|
+|[ToLowerConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/ToLowerConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|string|
+|[ToUpperConverter](https://github.com/CrossGeeks/UsefulConvertersSample/blob/master/UsefulConvertersSample/Converters/ToUpperConverter.cs)|[CrossGeeks](https://github.com/CrossGeeks)|string|
 
 # Collections
 * [Converters Pack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack)
@@ -16,3 +23,4 @@
 * [xamarin.forms-toolkit](https://github.com/jamesmontemagno/xamarin.forms-toolkit/tree/master/FormsToolkit/FormsToolkit/Converters)
 * [Converters](https://github.com/framinosona/Converters)
 * [Plugin.XamarinForms.Converters](https://github.com/saimel/Plugin.XamarinForms.Converters)
+* [UsefulConvertersSample](https://github.com/CrossGeeks/UsefulConvertersSample)
